@@ -1,0 +1,3 @@
+# Download Instructions for monthly statements as PDF files
+1. Follow this [google drive link](https://drive.google.com/drive/folders/1ZWCO7p9WQq17YNhyzmywz0t9P1CFneNI?usp=sharing), select all `.pdf` documents, and choose `Download`
+2. Copy the `.pdf` files from your `Downloads` folder into `PropertyManagementStatements` by selecting them all in a Finder window and dragging them into `PropertyManagementStatements` opened in another Finder window or JupyterLab.
