@@ -1,5 +1,5 @@
 # Python-Basics-PnL
-Educational Python Demo reading and manipulating data to construct Profit and Loss Analysis
+Educational python demo repository for reading and manipulating data needed for a simple Profit and Loss Analysis.
 
 ## Setup
 1. Follow instructions in `PropertyManagementStatements/README.md` to download pdf statements
